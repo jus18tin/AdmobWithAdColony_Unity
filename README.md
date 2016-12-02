@@ -1,4 +1,4 @@
-# AdmobWithAdColony_Unity1
+# AdmobWithAdColony_Unity
 
 admobのunity pluginご利用できます。
 https://firebase.google.com/docs/admob/unity/start
